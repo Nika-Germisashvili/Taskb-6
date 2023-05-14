@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 40px 33px 0px;
+  min-height: 860px;
+}
+
+.cbox, .cbox-1 {
+  background: rgba(26, 161, 121, 0.5);
+  border-radius: 16px;
+}
+
+.cbox-1 {
+  height: 160px;
+}
+
+.cbox {
+  height: 120px;
+}
+
